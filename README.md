@@ -1,6 +1,5 @@
-# DentistSmile - Jekyll Theme
+# Gos Feliç
 
-A single page Jekyll theme for dental clinics. It's easily customizable and responsive. It comes with svg icons, google map and a working contact form. Docs can be found [here](http://obaez.com/dentistsmile-docs/).
+Source code for the website www.gosfeliç.com
 
-Here is a [live Demo](http://obaez.com/dentistsmile/)
-
+Many thanks to [Orlando Báez](http://obaez.com/) for his template [Dentist Smile](http://obaez.com/dentistsmile/)
