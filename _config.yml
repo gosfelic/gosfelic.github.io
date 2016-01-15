@@ -3,7 +3,7 @@ title: Gos Feliç
 description: "Pàgina web de la perruqueria canina Gos Feliç"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: svg/min/logo.png
 
 # Hero
 hero:
@@ -33,11 +33,10 @@ testimonials:
 map:
     zoom: 17
     address: Ronda del Guinardó, 24, 08024 Barcelona
-    address_details: svg/min/logo.svg
+    address_details: svg/min/logo.png
 
 # Social settings
 facebook: https://www.facebook.com/lauragosfelic
-instagram: http://instagram.com/gosfelic
 
 # Footer
 copyright: © 2015 Gos Feliç
